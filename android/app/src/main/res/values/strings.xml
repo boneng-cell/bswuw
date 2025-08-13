@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">bsuq</string>
+    <string name="title_activity_main">bsuq</string>
+    <string name="package_name">cok.akak.ad</string>
+    <string name="custom_url_scheme">cok.akak.ad</string>
+</resources>
